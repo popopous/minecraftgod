@@ -48,3 +48,9 @@
 [16:34:39] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
 [16:34:53] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
 [16:36:52] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
+[16:47:59] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
+[16:48:06] [Server thread/INFO]: Iaqocraft lost connection: Disconnected
+[16:48:06] [Server thread/INFO]: Iaqocraft left the game
+[16:48:33] [User Authenticator #2/INFO]: UUID of player Iaqocraft is 6b94834c-3a61-451a-889e-c47e334a64d5
+[16:48:33] [Server thread/INFO]: Iaqocraft[/127.12.58.93:42935] logged in with entity id 24593 at (-299.2033324188763, 158.0, 81.59614062832325)
+[16:48:33] [Server thread/INFO]: Iaqocraft joined the game
