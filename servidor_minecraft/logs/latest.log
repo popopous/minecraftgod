@@ -36,3 +36,10 @@
 [16:04:42] [Server thread/WARN]: Boat (vehicle of Iaqocraft) moved wrongly! 0.3519983015712569
 [16:04:42] [Server thread/WARN]: Boat (vehicle of Iaqocraft) moved wrongly! 0.5751101043758808
 [16:04:42] [Server thread/WARN]: Boat (vehicle of Iaqocraft) moved wrongly! 0.8154405915465759
+[16:21:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-260, y=86, z=119} gu{x=-260, y=86, z=118}
+[16:24:16] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
+[16:24:20] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
+[16:25:16] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
+[16:25:21] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
+[16:25:31] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
+[16:26:58] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
