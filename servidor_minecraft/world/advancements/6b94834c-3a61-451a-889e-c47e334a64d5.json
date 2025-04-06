@@ -1008,6 +1008,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2025-04-06 15:34:45 +0000",
       "minecraft:cow": "2025-04-02 02:35:39 +0000"
     },
     "done": false
@@ -1027,6 +1028,7 @@
       "minecraft:piglin": "2025-04-04 20:44:00 +0000",
       "minecraft:enderman": "2025-04-03 22:09:23 +0000",
       "minecraft:zombie": "2025-04-03 22:03:39 +0000",
+      "minecraft:drowned": "2025-04-06 15:40:08 +0000",
       "minecraft:zombie_villager": "2025-04-04 20:11:11 +0000"
     },
     "done": false
@@ -2693,6 +2695,18 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-06 05:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-06 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-06 15:31:53 +0000"
     },
     "done": true
   },

@@ -30,3 +30,6 @@
 [15:26:49] [Server thread/INFO]: Iaqocraft joined the game
 [15:26:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8779ms or 175 ticks behind
 [15:29:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-6508, y=60, z=1197} gu{x=-6509, y=59, z=1197}
+[15:36:53] [Server thread/INFO]: Made Iaqocraft a server operator
+[15:37:20] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
+[15:38:07] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
