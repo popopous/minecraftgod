@@ -1,56 +1,33 @@
-[15:26:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:26:28] [ServerMain/INFO]: Loaded 7 recipes
-[15:26:28] [ServerMain/INFO]: Loaded 1271 advancements
-[15:26:28] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[15:26:28] [Server thread/INFO]: Loading properties
-[15:26:28] [Server thread/INFO]: Default game type: SURVIVAL
-[15:26:28] [Server thread/INFO]: Generating keypair
-[15:26:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:26:29] [Server thread/INFO]: Using epoll channel type
-[15:26:29] [Server thread/INFO]: Preparing level "world"
-[15:26:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:41] [Server thread/INFO]: Time elapsed: 7056 ms
-[15:26:41] [Server thread/INFO]: Done (12.334s)! For help, type "help"
-[15:26:49] [User Authenticator #1/INFO]: UUID of player Iaqocraft is 6b94834c-3a61-451a-889e-c47e334a64d5
-[15:26:49] [Server thread/INFO]: Iaqocraft[/127.12.58.93:43097] logged in with entity id 238 at (-6099.487943692548, 62.073264324665075, 1170.4820332273532)
-[15:26:49] [Server thread/INFO]: Iaqocraft joined the game
-[15:26:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8779ms or 175 ticks behind
-[15:29:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-6508, y=60, z=1197} gu{x=-6509, y=59, z=1197}
-[15:36:53] [Server thread/INFO]: Made Iaqocraft a server operator
-[15:37:20] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
-[15:38:07] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
-[16:04:42] [Server thread/WARN]: Boat (vehicle of Iaqocraft) moved wrongly! 0.3519983015712569
-[16:04:42] [Server thread/WARN]: Boat (vehicle of Iaqocraft) moved wrongly! 0.5751101043758808
-[16:04:42] [Server thread/WARN]: Boat (vehicle of Iaqocraft) moved wrongly! 0.8154405915465759
-[16:21:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-260, y=86, z=119} gu{x=-260, y=86, z=118}
-[16:24:16] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
-[16:24:20] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
-[16:25:16] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
-[16:25:21] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
-[16:25:31] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
-[16:26:58] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
-[16:34:02] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
-[16:34:20] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
-[16:34:39] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
-[16:34:53] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
-[16:36:52] [Server thread/INFO]: [Iaqocraft: Set own game mode to Creative Mode]
-[16:47:59] [Server thread/INFO]: [Iaqocraft: Set own game mode to Survival Mode]
-[16:48:06] [Server thread/INFO]: Iaqocraft lost connection: Disconnected
-[16:48:06] [Server thread/INFO]: Iaqocraft left the game
-[16:48:33] [User Authenticator #2/INFO]: UUID of player Iaqocraft is 6b94834c-3a61-451a-889e-c47e334a64d5
-[16:48:33] [Server thread/INFO]: Iaqocraft[/127.12.58.93:42935] logged in with entity id 24593 at (-299.2033324188763, 158.0, 81.59614062832325)
-[16:48:33] [Server thread/INFO]: Iaqocraft joined the game
+[16:50:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:50:37] [ServerMain/INFO]: Loaded 7 recipes
+[16:50:37] [ServerMain/INFO]: Loaded 1271 advancements
+[16:50:38] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[16:50:38] [Server thread/INFO]: Loading properties
+[16:50:38] [Server thread/INFO]: Default game type: SURVIVAL
+[16:50:38] [Server thread/INFO]: Generating keypair
+[16:50:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:50:38] [Server thread/INFO]: Using epoll channel type
+[16:50:39] [Server thread/INFO]: Preparing level "world"
+[16:50:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:50:51] [Server thread/INFO]: Time elapsed: 6979 ms
+[16:50:51] [Server thread/INFO]: Done (12.891s)! For help, type "help"
+[16:56:55] [User Authenticator #1/INFO]: UUID of player Iaqocraft is 6b94834c-3a61-451a-889e-c47e334a64d5
+[16:56:55] [Server thread/INFO]: Iaqocraft[/127.12.58.93:36959] logged in with entity id 235 at (-299.37400869863006, 158.0, 81.54784179357719)
+[16:56:55] [Server thread/INFO]: Iaqocraft joined the game
+[16:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3256ms or 65 ticks behind
+[16:57:06] [Server thread/INFO]: Iaqocraft lost connection: Disconnected
+[16:57:06] [Server thread/INFO]: Iaqocraft left the game
